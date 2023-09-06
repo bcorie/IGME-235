@@ -1,2 +1,2 @@
-# IGME-235
-Introduction to Game Web Tech
+# Introduction to Game Web Tech
+Coursework from the class at Rochester Institute of Technology (RIT).
